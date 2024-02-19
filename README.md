@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deborahUAH
-- 👀 I’m interested in Airborne and Field Campaign Data Management
-- 🌱 I’m currently learning github!
-- 💞️ I’m looking to collaborate on best practices for handling drone science data
+- 👀 I’m interested in Earth Science Data Management
+- 🌱 I’m currently trying to learn github!
+- 💞️ I’m looking to collaborate on best practices for anything related to airborne and field data 
 - 📫 How to reach me deborah.smith@uah.edu
 
 <!---
